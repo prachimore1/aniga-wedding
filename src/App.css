@@ -66,8 +66,14 @@
 }
 .hangingFlower {
   height: 17vh;
-  left: 28vw;
+
   position: relative;
+}
+.hF1 {
+  left: 28vw;
+}
+.hF2 {
+  left: 40vw;
 }
 @keyframes slideUp {
   from {

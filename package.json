@@ -1,7 +1,7 @@
 {
   "name": "aniga-wedding",
   "version": "0.1.0",
-  "homepag": "https://prachimore1.github.io/aniga-wedding/",
+  "homepag": "https://prachimore1.github.io/aniga-wedding",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

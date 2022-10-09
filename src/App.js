@@ -6,6 +6,7 @@ import mala1 from "./images/elements/mala1.png";
 import mala2 from "./images/elements/mala2.png";
 import mala3 from "./images/elements/mala3.png";
 import hangingFlower1 from "./images/elements/hangingFlower1.png";
+import hangingFlower2 from "./images/elements/hangingFlower2.png";
 
 class App extends React.Component {
   constructor(props) {
@@ -48,6 +49,7 @@ function Invite() {
           </div>
           <div className="hangingFlowerLayer">
             <img src={hangingFlower1} alt="" className="hangingFlower hF1"/>
+            <img src={hangingFlower2} alt="" className="hangingFlower hF2"/>
           </div>
         </div>
       </div>
